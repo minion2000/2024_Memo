@@ -1,0 +1,53 @@
+﻿2024/12/06
+
+・コピペ複数調べる。
+・ubuntu ショートカット調べる。
+
+[Desktop Entry]
+Name=Vrew
+Comment=Video editing with AI
+Exec=/home/shibuya/Applications/Vrew-2.8.3-x86_64.AppImage
+Terminal=false
+Type=Application
+Categories=AudioVideo;VideoEditing;
+
+
+
+mv ~/media/shibuya/HDD/WORK/ピクチャ/スクリーンショット/vrew-icon.png ~/.local/share/applications/vrew.desktop
+
+
+/media/shibuya/HDD/WORK/ピクチャ/スクリーンショット/vrew-icon.png
+
+
+git config --global user.name "ShibuyaStitch"
+git config --global user.email "20micrometer@gmail.com"
+
+
+
+
+
+三山木の設定：
+経験人数1000人の末に、理想の相手にたどり着いた。
+
+■企画
+　・合コン
+　・童貞卒業企画
+　・実際、三山木はモテるのか検証
+　・Tinderで、男を呼んでその流れで童貞を卒業させる。
+　
+　
+■テーマ
+　・恋愛で相手に舐められないようにするには？
+　・
+
+
+## 企画
+
+- 合コン
+- 童貞卒業企画
+- 実際、三山木はモテるのか検証
+- Tinder で、男を呼んでその流れで童貞を卒業させる。
+
+## テーマ
+
+- 恋愛で相手に舐められないようにするには？
